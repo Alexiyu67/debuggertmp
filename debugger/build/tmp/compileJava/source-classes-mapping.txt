@@ -1,0 +1,8 @@
+WordAnalyzerTester2.java
+ WordAnalyzerTester2
+WordAnalyzerTester.java
+ WordAnalyzerTester
+WordAnalyzer.java
+ WordAnalyzer
+WordAnalyzerTester3.java
+ WordAnalyzerTester3
